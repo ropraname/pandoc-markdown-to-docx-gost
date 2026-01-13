@@ -1,0 +1,12 @@
+toc-title: "Содержание"
+lang: "ru-RU"
+figureTitle: "Рисунок"
+tableTitle: "Таблица"
+listingTitle: "Листинг"
+figPrefix: "рис."
+tblPrefix: "табл."
+eqnPrefix: "ур."
+lstPrefix: "листинг"
+chapters: true        # Нумерация по главам (Рис. 1.1, 1.2). Если не нужно — поставьте false
+tableTemplate: "*$$tableTitle$$ $$i$$.* $$t$$" # Курсив, Таблица 1. Название
+figureTemplate: "*$$figureTitle$$ $$i$$.* $$t$$" # Курсив, Рисунок 1. Название
